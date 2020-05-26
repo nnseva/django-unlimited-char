@@ -1,2 +1,2 @@
 """Unlimited Char database dield module"""
-from .version import *  # NOQA
+from .version import __version__
