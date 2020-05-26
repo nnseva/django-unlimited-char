@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nnseva/django-unlimited-char.svg?branch=master)](https://travis-ci.org/nnseva/django-unlimited-char)
+[![Build Status](https://travis-ci.com/nnseva/django-unlimited-char.svg?branch=master)](https://travis-ci.com/nnseva/django-unlimited-char)
 
 
 # Django-Unlimited-Char
