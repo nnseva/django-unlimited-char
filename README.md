@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nnseva/django-unlimited-char.svg?branch=master)](https://travis-ci.org/nnseva/django-unlimited-char)
+
+
 # Django-Unlimited-Char
 
 The tiny library introducing CharField with unlimited maximum length.
