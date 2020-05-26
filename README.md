@@ -37,4 +37,4 @@ class MyModel(models.Model):
 You can use this field anywhere the usual CharField is used.
 
 You can assign a max_length attribute as for the original CharField, but this attribute will
-restrict the input only (form `clean()` etc). The direct `save()` will not resctict the field length.
+restrict the input only (form `clean()` etc). The direct `save()` will not restrict the field length.
