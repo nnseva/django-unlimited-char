@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.com/nnseva/django-unlimited-char.svg?branch=master)](https://travis-ci.com/nnseva/django-unlimited-char)
+[![Tests with Django v2-v3](https://github.com/nnseva/django-unlimited-char/actions/workflows/test-django2-3.yml/badge.svg)](https://github.com/nnseva/django-unlimited-char/actions/workflows/test-django2-3.yml)
 
+[![Tests with Django v3-v4](https://github.com/nnseva/django-unlimited-char/actions/workflows/test-django3-4.yml/badge.svg)](https://github.com/nnseva/django-unlimited-char/actions/workflows/test-django3-4.yml)
 
 # Django-Unlimited-Char
 
