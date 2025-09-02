@@ -51,6 +51,10 @@ setup(
         'Framework :: Django :: 3.2',
         'Framework :: Django :: 4.0',
         'Framework :: Django :: 4.1',
+        'Framework :: Django :: 4.2',
+        'Framework :: Django :: 5.0',
+        'Framework :: Django :: 5.1',
+        'Framework :: Django :: 5.2',
 
         'License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)',
 
@@ -59,9 +63,10 @@ setup(
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
     ],
 
     keywords='django field unlimited char postgres sqlite3',
     packages=find_packages(exclude=['dev']),
-    install_requires=['django>=2.0', 'six'],
+    install_requires=['django>=2.0'],
 )

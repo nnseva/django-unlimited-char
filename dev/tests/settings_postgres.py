@@ -2,6 +2,10 @@ import os
 
 from .settings import *  # NOQA
 
+from django2_postgres import psycopg_patch
+
+psycopg_patch.fix()
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
